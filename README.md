@@ -52,7 +52,7 @@ A custom Frappe application (`employee_training`) designed to manage, track, val
 - **Dynamic Filters:** Real-time filtering by *Department*, *Training Type*, *Status*, *Date Range*, and *Certification*.
 - **1-Click Export:** Toolbar buttons for instant export to **CSV** and **Excel**.
 
-#### 5. Database Integration (MariaDB / MySQL)
+#### 5. Database Integration (MariaDB and TablePlus)
 - Built directly on MariaDB table `tabEmployee Training`.
 - Executed multi-dimensional SQL aggregation and reporting queries (department certification rates, status breakdowns, and attendance tracking).
 
