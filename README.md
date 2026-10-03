@@ -80,4 +80,3 @@ employee_training/
 ├── pyproject.toml
 └── README.md
 ```
-mit
